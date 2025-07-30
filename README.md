@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Daniel Pinto
 
-I’m a **software engineer** and co-founder of **Magma Ventures**, where I lead the core software team in building impactful digital products. With over **4 years of experience** in enterprise-level development, I focus on delivering robust, scalable, and user-centric systems — especially for industries like **sustainability**, **climate tech**, and **commerce**.
+I’m a **full-stack developer** and co-founder of **Magma Ventures**, where I lead the core software team in building impactful digital products. With over **4 years of experience** in enterprise-level development, I focus on delivering robust, scalable, and user-centric systems — especially for industries like **sustainability**, **climate tech**, and **commerce**.
 
 I specialize in designing and leading full-cycle software projects — from architecture to deployment — including:
 
@@ -10,25 +10,6 @@ I specialize in designing and leading full-cycle software projects — from arch
 - 🛒 **Digital commerce platforms** optimized for usability, performance, and scalable growth  
 
 I thrive at the intersection of technology and business — translating real-world challenges into elegant, maintainable software.
-
----
-
-## 🚀 Expertise
-
-I lead **multidisciplinary software teams** and work across the entire product lifecycle — from discovery and system design to hands-on development and release.
-
-My frontend work focuses on building **modern UIs** using **Vue 3**, **React**, and **TypeScript**, with an emphasis on component design, accessibility, and performance. I use **Tailwind CSS** and **Vite** to streamline styling and builds.
-
-On the backend, I architect secure and modular APIs with **Django REST Framework**, **FastAPI**, and **Laravel**, backed by relational databases like **PostgreSQL**, **MySQL**, and **SQLite**. These systems often include **background tasks**, **auth systems**, **OpenAPI docs**, and deep integration with third-party services.
-
-For **mobile apps**, I use **Flutter** and **Dart** to ship responsive, native-quality experiences — often connected to backend platforms for real-time data and user interaction.
-
-In **DevOps**, I leverage tools like **Docker**, **GitHub Actions**, and **Nginx** to deliver consistent and reliable deployments. I frequently deploy on **DigitalOcean**, using **Dokku** to manage infrastructure with minimal overhead.
-
-I’m also experienced in:
-- Working with **climate and sustainability datasets**
-- Building tools for **data collection** and **field research** (e.g. **ODK**, **Power BI**)
-- Maintaining high-quality **documentation**, **agile workflows**, and **CI/CD pipelines**
 
 ---
 
@@ -66,6 +47,25 @@ I’m also experienced in:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ODK](https://img.shields.io/badge/ODK-239639?style=for-the-badge&logo=data&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Expertise
+
+I lead **multidisciplinary software teams** and work across the entire product lifecycle — from discovery and system design to hands-on development and release.
+
+My frontend work focuses on building **modern UIs** using **Vue 3**, **React**, and **TypeScript**, with an emphasis on component design, accessibility, and performance. I use **Tailwind CSS** and **Vite** to streamline styling and builds.
+
+On the backend, I architect secure and modular APIs with **Django REST Framework**, **FastAPI**, and **Laravel**, backed by relational databases like **PostgreSQL**, **MySQL**, and **SQLite**. These systems often include **background tasks**, **auth systems**, **OpenAPI docs**, and deep integration with third-party services.
+
+For **mobile apps**, I use **Flutter** and **Dart** to ship responsive, native-quality experiences — often connected to backend platforms for real-time data and user interaction.
+
+In **DevOps**, I leverage tools like **Docker**, **GitHub Actions**, and **Nginx** to deliver consistent and reliable deployments. I frequently deploy on **DigitalOcean**, using **Dokku** to manage infrastructure with minimal overhead.
+
+I’m also experienced in:
+- Working with **climate and sustainability datasets**
+- Building tools for **data collection** and **field research** (e.g. **ODK**, **Power BI**)
+- Maintaining high-quality **documentation**, **agile workflows**, and **CI/CD pipelines**
 
 ---
 
