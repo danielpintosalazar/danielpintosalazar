@@ -11,8 +11,6 @@ I specialize in designing and leading full-cycle software projects — from arch
 
 I thrive at the intersection of technology and business — translating real-world challenges into elegant, maintainable software.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danielpintosalazar&theme=taiga&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 ## 🚀 Expertise
